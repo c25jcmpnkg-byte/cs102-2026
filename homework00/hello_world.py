@@ -4,3 +4,4 @@
 def text() -> str:
     """Возвращает приветственную строку."""
     return "Hello, world!"
+    
